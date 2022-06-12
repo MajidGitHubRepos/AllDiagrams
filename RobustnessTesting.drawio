@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T19:55:24.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="m6jMe0Z2IK3mRR5gWc_y" version="19.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-12T19:56:28.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="14DduR3kfI0hwflDg1tk" version="19.0.3" type="github" pages="4">
   <diagram id="etNqT0bQUPXkj23zkjb7" name="LOGO">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -496,15 +496,6 @@
               <mxPoint x="83" y="10520" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_FRvR9UyasuP9k6zwM-Z-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="259.76" y="10517.84" width="44" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="_FRvR9UyasuP9k6zwM-Z-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="_FRvR9UyasuP9k6zwM-Z-1" vertex="1">
-          <mxGeometry width="44" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="_FRvR9UyasuP9k6zwM-Z-3" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;RTCC&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="_FRvR9UyasuP9k6zwM-Z-1" vertex="1">
-          <mxGeometry x="5.902439024390244" y="6.595744680851064" width="32.19512195121951" height="19.78723404255319" as="geometry" />
         </mxCell>
         <mxCell id="wXb2SS90TN1odhp4DouX-1" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;RobCalc&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-64.42756097560975" y="10548.835744680851" width="32.19512195121951" height="19.78723404255319" as="geometry" />
