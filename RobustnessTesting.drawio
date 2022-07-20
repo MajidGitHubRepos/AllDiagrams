@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T17:35:14.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OzTEXk2j865Hu_cZAZG8" version="20.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-20T17:40:13.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g-WmPlTCVufm2okDkL-b" version="20.1.1" type="github" pages="9">
   <diagram id="etNqT0bQUPXkj23zkjb7" name="LOGO">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iZVWNWPKngoRDsBlXNPZ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientDirection=north;strokeColor=default;perimeterSpacing=0;gradientColor=none;shadow=0;sketch=0;glass=0;dashed=1;fillColor=none;labelBackgroundColor=#E1D5E7;" parent="1" vertex="1">
-          <mxGeometry x="-126" y="10171" width="396" height="363" as="geometry" />
+          <mxGeometry x="-126" y="10171" width="385" height="363" as="geometry" />
         </mxCell>
         <mxCell id="nRBfa_4PWqLAc5cm6Ydk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;gradientDirection=east;perimeterSpacing=0;shadow=0;sketch=0;glass=0;dashed=1;labelBackgroundColor=#CCCCCC;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-102" y="10299" width="265" height="222" as="geometry" />
@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZVWNWPKngoRDsBlXNPZ-17" value="&lt;b&gt;System Robustness Analysis&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="163" y="10340" width="257" height="30" as="geometry" />
+          <mxGeometry x="146" y="10340" width="257" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iZVWNWPKngoRDsBlXNPZ-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;BT Cost&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="10498.62" width="54" height="19" as="geometry" />
@@ -477,13 +477,7 @@
           <mxGeometry x="-209.8" y="10198" width="77.8" height="61.68" as="geometry" />
         </mxCell>
         <mxCell id="M1TXJBHcjMmdDncizAzu-29" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;Trace&lt;br&gt;Collection&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-216" y="10230" width="82" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_AG_uguS_w5Mhgvk908x-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nRBfa_4PWqLAc5cm6Ydk-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="10400" as="sourcePoint" />
-            <mxPoint x="38.51515151515173" y="10429" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-213" y="10229" width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZcDeWUeP7Bk9YoGkBKlQ-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;" parent="1" source="ZcDeWUeP7Bk9YoGkBKlQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -496,11 +490,20 @@
         <mxCell id="ZcDeWUeP7Bk9YoGkBKlQ-3" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-289.24000000000007" y="10085" width="86.24" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nRBfa_4PWqLAc5cm6Ydk-2" value="&lt;b&gt;output&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infectious-pandemics-2/480/09-report-128.png" parent="1" vertex="1">
-          <mxGeometry x="188" y="10360" width="80" height="80" as="geometry" />
+        <mxCell id="mt9TbZ6wcgc8PI-HSHn6-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="186" y="10377" width="67" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="nRBfa_4PWqLAc5cm6Ydk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png;imageBackground=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="215.79999999999995" y="10379" width="20.12" height="20.12" as="geometry" />
+        <mxCell id="nRBfa_4PWqLAc5cm6Ydk-2" value="&lt;b&gt;output&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infectious-pandemics-2/480/09-report-128.png" parent="mt9TbZ6wcgc8PI-HSHn6-2" vertex="1">
+          <mxGeometry width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nRBfa_4PWqLAc5cm6Ydk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Wrong-128.png;imageBackground=#ffffff;" parent="mt9TbZ6wcgc8PI-HSHn6-2" vertex="1">
+          <mxGeometry x="23.80000000000001" y="16" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="mt9TbZ6wcgc8PI-HSHn6-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="nRBfa_4PWqLAc5cm6Ydk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161" y="10411" as="sourcePoint" />
+            <mxPoint x="22" y="10333" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
