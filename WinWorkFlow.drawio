@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T02:35:19.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="krQ76BkVZQKHxiT0J9wH" version="21.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-20T02:54:41.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e9kPOcE3kcETgrAS86EC" version="21.1.7" type="github" pages="9">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -706,6 +706,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-21" value="Gen AI 2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1766/1766456.png;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="192" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-22" value="Gen AI 3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dlmacedo.com/images/icon_hu869b77425f101bcced2607a23e63a101_10351_512x512_fill_lanczos_center_2.png;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-23" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="100" width="320" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="GZZCxRhxNdrlYEpZ900P-23">
+          <mxGeometry width="320" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-18" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/free-icon/artificial-intelligence_318-517668.jpg;fontStyle=1;fontSize=20;" vertex="1" parent="GZZCxRhxNdrlYEpZ900P-23">
+          <mxGeometry x="10" y="6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-19" value="M" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/free-icon/artificial-intelligence_318-517668.jpg;fontStyle=1;fontSize=20;" vertex="1" parent="GZZCxRhxNdrlYEpZ900P-23">
+          <mxGeometry x="220" y="6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GZZCxRhxNdrlYEpZ900P-23">
+          <mxGeometry x="120" y="31" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GZZCxRhxNdrlYEpZ900P-34" target="GZZCxRhxNdrlYEpZ900P-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="580" y="123" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZZCxRhxNdrlYEpZ900P-17" target="GZZCxRhxNdrlYEpZ900P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.user_services;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZZCxRhxNdrlYEpZ900P-24" target="GZZCxRhxNdrlYEpZ900P-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="193" as="sourcePoint" />
+            <mxPoint x="232" y="221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZZCxRhxNdrlYEpZ900P-34" target="GZZCxRhxNdrlYEpZ900P-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GZZCxRhxNdrlYEpZ900P-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2235/2235657.png;" vertex="1" parent="1">
+          <mxGeometry x="379" y="230" width="92" height="92" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
