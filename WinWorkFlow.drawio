@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T17:54:53.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TxUmfqSUrdXvhKBmKVOg" version="21.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-23T17:58:57.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FOzJRv6BxS9wtKiMG7Zq" version="21.1.7" type="github" pages="10">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1268,6 +1268,9 @@
         </mxCell>
         <mxCell id="r36nhAgFdFWGQK1JJONa-44" value="Change propagation analysis can be done by considering this fact" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;rotation=-180;position2=0.43;base=22;horizontal=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="2680" width="113.75" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r36nhAgFdFWGQK1JJONa-45" value="The marketing them can get relevant points for each feature that is implementing. E.g., they can recieve daily information about the most stable features&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;rotation=0;position2=0.43;base=22;horizontal=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="636.25" y="1940" width="113.75" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
