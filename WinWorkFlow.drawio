@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T23:24:22.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="W4n5tfyvpMNEtftfiH22" version="21.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-23T00:19:45.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wRzTPV4Geb3iUZPhQd9K" version="21.1.7" type="github" pages="10">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,6 +105,49 @@
         </mxCell>
         <mxCell id="3aOz5EzQrYfkj7z-Bmd9-44" value="BTP5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RF-rbsS545VreT-EtH2Q" name="Fetures">
+    <mxGraphModel dx="1450" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sprint Tracker - Task Work Flow&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="75" width="880" height="338" as="geometry">
+            <mxRectangle x="-18" y="75" width="156" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;One work flow is associated to each task&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="38" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-3" value="Task&#39;s WF gives more systematic overview of the task wich is better than the task description (in Jira)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="68" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-4" value="Users can updata their status in task&#39;s WF when they have finished one step (each task must have one active state in its WF)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="98" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-19" value="If a task is taking longer than expected (or it is blocked) the effecte of this on the other linked tasks will the evaluated and reflected in the table" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="128" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-13" value="If a WF is updated (e.g., new steps added) the effect of this updated on the other tasks will be evaluated&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="158" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-18" value="If part of the WF can be handled by a Generative AI, the user will be adviced" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="188" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="218" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="248" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="278" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+          <mxGeometry y="308" width="880" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
