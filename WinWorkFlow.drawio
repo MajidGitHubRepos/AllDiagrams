@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T00:19:45.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wRzTPV4Geb3iUZPhQd9K" version="21.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-23T00:43:21.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UJuphWTLckB00yluinef" version="21.1.7" type="github" pages="10">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,12 +114,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZxhNHdef6wG6yCYjoMkH-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sprint Tracker - Task Work Flow&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sprint Tracker - Task Work Flow&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=default;swimlaneFillColor=none;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-18" y="75" width="880" height="338" as="geometry">
             <mxRectangle x="-18" y="75" width="156" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZxhNHdef6wG6yCYjoMkH-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;One work flow is associated to each task&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
+        <mxCell id="ZxhNHdef6wG6yCYjoMkH-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;One work flow is associated to each task&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;gradientColor=none;rounded=0;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
           <mxGeometry y="38" width="880" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZxhNHdef6wG6yCYjoMkH-3" value="Task&#39;s WF gives more systematic overview of the task wich is better than the task description (in Jira)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
