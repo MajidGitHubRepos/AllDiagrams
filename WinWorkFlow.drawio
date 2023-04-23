@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T00:43:21.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UJuphWTLckB00yluinef" version="21.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-23T01:45:16.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OuEyQTPCzQ7GFeN2UEy5" version="21.1.7" type="github" pages="10">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,6 +148,29 @@
         </mxCell>
         <mxCell id="ZxhNHdef6wG6yCYjoMkH-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZxhNHdef6wG6yCYjoMkH-1">
           <mxGeometry y="308" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Benefits of using our project managment strategy: Task Work Flow&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=default;swimlaneFillColor=none;rounded=1;shadow=0;glass=0;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="444" width="880" height="218" as="geometry">
+            <mxRectangle x="-18" y="75" width="156" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-2" value="1. Increases the visibility of the subtasks and the logical workflow to accomplish them" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;gradientColor=none;rounded=0;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="38" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-8" value="2. It enhances collaboration between users when they can model theri communication in a WF and follow up systematically&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="68" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-9" value="3. It organize resources or intermediate results in a logical fashion based on their underlying WF" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="98" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-10" value="4. It allows project mangers to identify reoccuring patterns in a WF (or even accross WFs) that are good candidates for automation using Gen AI powered systems" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="128" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-11" value="5.&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="158" width="880" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40BBdYweHqFETv7YxdzT-15" value="6.&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="40BBdYweHqFETv7YxdzT-1">
+          <mxGeometry y="188" width="880" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
