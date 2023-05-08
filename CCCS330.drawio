@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T15:16:59.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.2" etag="JMQFk1omhMeQDvvGOVea" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T15:27:39.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3XoyX3pRmX5MZfSKiDge" version="21.2.2" type="github">
   <diagram name="Page-1" id="qLlO39WpODb3-5eMBKRL">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-1" value="Student" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-2" value="name&lt;br&gt;email&lt;br&gt;dateRegistered" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="PfVGwmJEi_Wf4bEBzFXl-1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-4" value="Student" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-5" value="firstName (string)&lt;br&gt;lastName (string)&lt;br&gt;email (string)&lt;br&gt;dateRegistered (dateTime)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="PfVGwmJEi_Wf4bEBzFXl-4">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-6" value="Course" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-7" value="title&lt;br&gt;price&lt;br&gt;instructor&lt;br&gt;tags" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="PfVGwmJEi_Wf4bEBzFXl-6">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-8" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;entryX=0.008;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="PfVGwmJEi_Wf4bEBzFXl-5" target="PfVGwmJEi_Wf4bEBzFXl-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="220" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PfVGwmJEi_Wf4bEBzFXl-9" value="enrolls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PfVGwmJEi_Wf4bEBzFXl-8">
+          <mxGeometry x="-0.2866" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
