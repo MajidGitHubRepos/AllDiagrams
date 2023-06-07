@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T21:29:24.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2t8sr-6hCbLk3wyXiTmO" version="21.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:50:02.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8MFjhPUeRsuzeqX-gvBe" version="21.3.0" type="github" pages="12">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1734,10 +1734,85 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4kTt5-5gJWdnNtHAB-2B" name="HowToGrow">
-    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="530" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="224.66" as="sourcePoint" />
+            <mxPoint x="780" y="224.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-6" value="&lt;b&gt;Work Package#1: MDE&lt;/b&gt;&lt;br&gt;(How to benefit BPMN in workflow)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-7" value="&lt;b&gt;Work Package#2: Generative AI&lt;/b&gt;&lt;br&gt;(How to add gen AI component in BPMN)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-9" value="&lt;b&gt;Work Package#3: Human-AI Collabl.&lt;/b&gt;&lt;br&gt;(How to ensure BPMNs provide an effective human-AI collaboration)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="224.64" as="sourcePoint" />
+            <mxPoint x="170" y="224.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="328" as="sourcePoint" />
+            <mxPoint x="662" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="110" as="sourcePoint" />
+            <mxPoint x="203" y="341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-16" value="Hiring students" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="560" y="29" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="eL-4G2pP2FAm7ZyaDzTw-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-19" value="Attending conferences" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="390" y="29" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-21" value="Buying equipments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="218" y="29" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-27" value="Register and run a biz" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="580" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.692;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571.76" y="359.99999999999994" as="sourcePoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
