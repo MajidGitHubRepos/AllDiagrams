@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T21:50:02.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8MFjhPUeRsuzeqX-gvBe" version="21.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:50:24.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lbpDSBRBcWHgShiMIL7N" version="21.3.0" type="github" pages="12">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1802,15 +1802,6 @@
         <mxCell id="eL-4G2pP2FAm7ZyaDzTw-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="90" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-27" value="Register and run a biz" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="580" y="380" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.692;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="571.76" y="359.99999999999994" as="sourcePoint" />
-            <mxPoint x="580" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
