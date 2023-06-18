@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T23:17:15.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u_tiVuBS1l_1c00MHp-p" version="21.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-18T16:04:29.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8bN39nah36sOvUgrZaLG" version="21.3.7" type="github" pages="13">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
-    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1071,7 +1071,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ARXCMTSzAJZ8mAfQa1n" name="SprintView">
-    <mxGraphModel dx="1050" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1175,7 +1175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4TXfSNWOVhUucy382Bbs" name="Scenarios">
-    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1726,7 +1726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U6fWAFPnIBhLLTvQAPew" name="AppTree">
-    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1734,35 +1734,35 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4kTt5-5gJWdnNtHAB-2B" name="HowToGrow">
-    <mxGraphModel dx="921" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="170" y="90" width="530" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" edge="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="224.66" as="sourcePoint" />
             <mxPoint x="780" y="224.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-6" value="&lt;b&gt;Work Package#1: MDE&lt;/b&gt;&lt;br&gt;(How to benefit BPMN in workflow)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-6" value="&lt;b&gt;Work Package#1: MDE&lt;/b&gt;&lt;br&gt;(How to benefit BPMN in workflow)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="230" y="140" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-7" value="&lt;b&gt;Work Package#2: Generative AI&lt;/b&gt;&lt;br&gt;(How to add gen AI component in BPMN)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-7" value="&lt;b&gt;Work Package#2: Generative AI&lt;/b&gt;&lt;br&gt;(How to add gen AI component in BPMN)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-9" value="&lt;b&gt;Work Package#3: Human-AI Collabl.&lt;/b&gt;&lt;br&gt;(How to ensure BPMNs provide an effective human-AI collaboration)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-9" value="&lt;b&gt;Work Package#3: Human-AI Collabl.&lt;/b&gt;&lt;br&gt;(How to ensure BPMNs provide an effective human-AI collaboration)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="230" y="260" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" edge="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=42.06896551724138;endSize=15.082758620689656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="224.64" as="sourcePoint" />
             <mxPoint x="170" y="224.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="199" y="326" as="sourcePoint" />
             <mxPoint x="662" y="108" as="targetPoint" />
@@ -1771,7 +1771,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="665" y="113" as="sourcePoint" />
             <mxPoint x="198" y="344" as="targetPoint" />
@@ -1780,50 +1780,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-16" value="Hiring students" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-16" value="Hiring students" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="560" y="29" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="eL-4G2pP2FAm7ZyaDzTw-16" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-19" value="Attending conferences" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-19" value="Attending conferences" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="390" y="29" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-19">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-21" value="Buying equipments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-21" value="Buying equipments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="218" y="29" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-21">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="1" target="eL-4G2pP2FAm7ZyaDzTw-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-30" value="Research Topics" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-30" value="Research Topics" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="387" width="700.5" height="572" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-31" value="WP#1&lt;br&gt;MDE" style="swimlane;startSize=34;horizontal=0;html=1;" vertex="1" parent="eL-4G2pP2FAm7ZyaDzTw-30">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-31" value="WP#1&lt;br&gt;MDE" style="swimlane;startSize=34;horizontal=0;html=1;" parent="eL-4G2pP2FAm7ZyaDzTw-30" vertex="1">
           <mxGeometry y="20" width="700.5" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-34" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model slicing&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;A model integration into another model&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Large model reconstruction from a few smaller models&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Model repository&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Model transformation (BPMN-&amp;gt; ASM -&amp;gt; SM OR M2M transformation using ATL OR graph transformation OR etc.)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Adaptive models&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Debugging and testing BPMNs&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; font-size: 18px;&quot; type=&quot;disc&quot;&gt;&lt;br&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eL-4G2pP2FAm7ZyaDzTw-31">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-34" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model slicing&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;A model integration into another model&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Large model reconstruction from a few smaller models&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Model repository&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Model transformation (BPMN-&amp;gt; ASM -&amp;gt; SM OR M2M transformation using ATL OR graph transformation OR etc.)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Adaptive models&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;Debugging and testing BPMNs&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; font-size: 18px;&quot; type=&quot;disc&quot;&gt;&lt;br&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eL-4G2pP2FAm7ZyaDzTw-31" vertex="1">
           <mxGeometry x="42" y="8" width="650" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-32" value="WP#2&lt;br&gt;AI-MDE" style="swimlane;startSize=34;horizontal=0;html=1;" vertex="1" parent="eL-4G2pP2FAm7ZyaDzTw-30">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-32" value="WP#2&lt;br&gt;AI-MDE" style="swimlane;startSize=34;horizontal=0;html=1;" parent="eL-4G2pP2FAm7ZyaDzTw-30" vertex="1">
           <mxGeometry y="247" width="700.5" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-38" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Creating a large generative AI model using BPMN&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;How AI components can be used in testing/debugging large BPMN models&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eL-4G2pP2FAm7ZyaDzTw-32">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-38" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Creating a large generative AI model using BPMN&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Calibri; background-color: initial;&quot;&gt;How AI components can be used in testing/debugging large BPMN models&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eL-4G2pP2FAm7ZyaDzTw-32" vertex="1">
           <mxGeometry x="37" y="4" width="636" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-33" value="WP#3&lt;br&gt;Human-AI" style="swimlane;startSize=34;horizontal=0;html=1;" vertex="1" parent="eL-4G2pP2FAm7ZyaDzTw-30">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-33" value="WP#3&lt;br&gt;Human-AI" style="swimlane;startSize=34;horizontal=0;html=1;" parent="eL-4G2pP2FAm7ZyaDzTw-30" vertex="1">
           <mxGeometry y="452" width="700.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-39" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How can we measure each developer&#39;s productivity/satisfiability/efficiency/etc. using AI components in BPMN&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: Calibri;&quot;&gt;How can we use MDE techniques to improve Human-AI interactions in complex software projects&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eL-4G2pP2FAm7ZyaDzTw-39" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How can we measure each developer&#39;s productivity/satisfiability/efficiency/etc. using AI components in BPMN&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: Calibri;&quot;&gt;How can we use MDE techniques to improve Human-AI interactions in complex software projects&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129" y="839" width="636" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wKWJxXgUzUGEKFFu7FVt" name="Research Overview">
+    <mxGraphModel dx="636" dy="370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7f1h0WuId7uo4xqZcQWW-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;MDE&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#3399FF;labelBackgroundColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1h0WuId7uo4xqZcQWW-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;IoT&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#33FF99;labelBackgroundColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="324" y="100" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1h0WuId7uo4xqZcQWW-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Cloud&lt;br&gt;Computing&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FFFF33;labelBackgroundColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="160" y="228" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1h0WuId7uo4xqZcQWW-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;AI&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF9933;labelBackgroundColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="324" y="228" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
