@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T17:14:27.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OuUIWFyxmASPWBXOt-0S" version="21.6.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-07T17:21:23.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="87BgGgWyoBDk2SHGBuAX" version="21.6.6" type="github" pages="14">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1871,9 +1871,48 @@
         </mxCell>
         <mxCell id="DtG3JViEzbCfdrKKfC2D-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;jumpSize=16;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="744" as="sourcePoint" />
-            <mxPoint x="633" y="744" as="targetPoint" />
+            <mxPoint x="60" y="705" as="sourcePoint" />
+            <mxPoint x="633" y="705" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-11" value="&lt;b&gt;Preception&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="548" y="661" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-12" value="&lt;b&gt;Range of Knowledge&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="506" y="718" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-13" value="&lt;b&gt;Creativity&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="466" y="661" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-14" value="&lt;b&gt;Semantics&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="376" y="661" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-15" value="&lt;b&gt;Reasoning&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="401" y="718" width="80.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-16" value="&lt;b&gt;Critical Thinking&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="497" y="625" width="80.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-17" value="&lt;b&gt;Emotional Ingeligence&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="410.5" y="625" width="80.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-18" value="&lt;b&gt;Logic&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="308" y="661" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-19" value="&lt;b&gt;Diagnosis&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="224" y="661" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-20" value="&lt;b&gt;Data Storage&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="95" y="663" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-21" value="&lt;b&gt;Computing Power&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="95" y="718" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-22" value="&lt;b&gt;Planing&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="274" y="718" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtG3JViEzbCfdrKKfC2D-23" value="&lt;b&gt;Prediction&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="256" y="627" width="74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
