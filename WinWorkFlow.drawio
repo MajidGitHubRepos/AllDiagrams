@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T18:22:25.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gjiSD8QxIck7fmi144_5" version="21.6.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-19T19:23:51.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SLMRvf_Erlk_badaFk0d" version="21.6.7" type="github" pages="15">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2163,7 +2163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qqXMzq0VIcuVyj78l3OB" name="Microservices">
-    <mxGraphModel dx="1313" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2175,22 +2175,22 @@
             <mxRectangle x="100" y="560" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-3" value="Process#1: Containers" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-3" value="Process#1: Containers" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="40" y="40" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-4" value="Process#4: Containers Orchestration" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-4" value="Process#4: Containers Orchestration" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="510" y="40" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-5" value="Process#5: Async Messageing" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-5" value="Process#5: Async Messageing" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="510" y="200" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-7" value="Process#2: Pipeline Automation" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-7" value="Process#2: Pipeline Automation" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="40" y="200" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-9" value="Process#3: Performance Monitoring" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-9" value="Process#3: Performance Monitoring" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="40" y="360" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-10" value="Process#6: Loging and Auditing" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
+        <mxCell id="A_do-VXD77UyiceKbpvT-10" value="Process#6: Loging and Auditing" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="510" y="360" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-19" value="" style="group" vertex="1" connectable="0" parent="A_do-VXD77UyiceKbpvT-2">
