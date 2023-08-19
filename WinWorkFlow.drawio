@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T18:08:00.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HLwZXoTbo9ei7sHOr7Ew" version="21.6.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-19T18:12:31.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="d8mR1o4V_F5iT24Wg68X" version="21.6.7" type="github" pages="15">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2163,7 +2163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qqXMzq0VIcuVyj78l3OB" name="Microservices">
-    <mxGraphModel dx="840" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2219,6 +2219,12 @@
         </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-us/azure/architecture/guide/aks/media/ci-cd-gitops-github-actions-aks-push.png;" vertex="1" parent="1">
           <mxGeometry x="1970" y="30" width="509.43" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="A_do-VXD77UyiceKbpvT-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://stacksimplify.com/course-images/azure-devops-release-pipelines-for-azure-aks.png;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="30" width="535.03" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A_do-VXD77UyiceKbpvT-24" value="https://stacksimplify.com/azure-aks/azure-devops-create-release-pipelines/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="-10" width="490" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
