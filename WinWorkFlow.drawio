@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T19:27:54.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="riYlmJRAaygWQp5wFIwt" version="21.6.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-19T19:47:19.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1X7ifqaqM9zktN75r4GC" version="21.6.7" type="github" pages="15">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2163,7 +2163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qqXMzq0VIcuVyj78l3OB" name="Microservices">
-    <mxGraphModel dx="212" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2187,11 +2187,35 @@
         <mxCell id="A_do-VXD77UyiceKbpvT-7" value="Process#2: Pipeline Automation" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="40" y="200" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A_do-VXD77UyiceKbpvT-27" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CI&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=14;dashed=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-7">
-          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-28" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CD&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=14;dashed=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-7">
           <mxGeometry x="230" y="30" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-89" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CI&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=14;dashed=1;" vertex="1" parent="A_do-VXD77UyiceKbpvT-7">
+          <mxGeometry x="4" y="29" width="200" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-46" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;src. cod&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="-3.25" y="35.00999999999999" width="63.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-53" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Install 3p tools&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="26.879999999999995" y="35.00999999999999" width="63.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-60" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Build&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="57.21999999999997" y="35.00999999999999" width="63.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-67" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Run Test&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="87.34999999999997" y="35.00999999999999" width="63.13" height="30" as="geometry">
+            <mxRectangle x="83.91499999999996" y="31.57499999999999" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-74" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Create Art&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="117.34999999999997" y="35.00999999999999" width="63.13" height="30" as="geometry">
+            <mxRectangle x="103.91499999999996" y="21.57499999999999" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGH6_z76AJBqmYvK1Uaq-81" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Pub. Art&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=14;rotation=-90;strokeWidth=0.5;" vertex="1" parent="UGH6_z76AJBqmYvK1Uaq-89">
+          <mxGeometry x="146.81999999999996" y="35.00999999999999" width="63.13" height="30" as="geometry">
+            <mxRectangle x="133.38499999999996" y="21.57499999999999" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-9" value="Process#3: Performance Monitoring" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="A_do-VXD77UyiceKbpvT-2">
           <mxGeometry x="40" y="360" width="410" height="120" as="geometry" />
@@ -2234,6 +2258,9 @@
         </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-25" value="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="-14" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_do-VXD77UyiceKbpvT-27" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CI&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="750" width="210" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
