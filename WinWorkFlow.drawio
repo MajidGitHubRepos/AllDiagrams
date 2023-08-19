@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T18:12:31.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="d8mR1o4V_F5iT24Wg68X" version="21.6.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-19T18:22:25.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gjiSD8QxIck7fmi144_5" version="21.6.7" type="github" pages="15">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2225,6 +2225,9 @@
         </mxCell>
         <mxCell id="A_do-VXD77UyiceKbpvT-24" value="https://stacksimplify.com/azure-aks/azure-devops-create-release-pipelines/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2540" y="-10" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_do-VXD77UyiceKbpvT-25" value="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-14" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
