@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T02:05:58.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nED0dE8PleKHS5lmn4zn" version="21.6.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-08-28T02:09:28.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kpALNXop8sflU-3OK3pL" version="21.6.8" type="github" pages="16">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2338,6 +2338,9 @@
         </mxCell>
         <mxCell id="nql-GVLw3Ec2JSN462vG-17" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;fillColor=none;dashed=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25" y="312" width="805" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="nql-GVLw3Ec2JSN462vG-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- What operations can be automated?&lt;br style=&quot;&quot;&gt;- What operations can not be automated?&lt;br style=&quot;&quot;&gt;- How humans can be more involved in non-automated operations?&lt;br&gt;- What characteristics of humans need to be developed to be more involved in non-automated operations?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="570" width="820" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
