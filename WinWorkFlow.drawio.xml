@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T00:58:09.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VVL_OdhBDOqTtiVfB3We" version="21.7.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-09-07T01:27:02.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_ebg30NzSPHZVZ996PA5" version="21.7.2" type="github" pages="16">
   <diagram name="ProjectBox" id="AlHhxsK1UVl9pyxG0rll">
     <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1833,6 +1833,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F_6VURezrENIk7iArN4Z-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-175.5" y="9165" width="166" height="152" as="geometry" />
+        </mxCell>
         <mxCell id="F_6VURezrENIk7iArN4Z-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-222" y="8022" width="189" height="242" as="geometry" />
         </mxCell>
@@ -3081,7 +3084,211 @@
           <mxGeometry x="-430" y="8264" width="208" height="242" as="geometry" />
         </mxCell>
         <mxCell id="F_6VURezrENIk7iArN4Z-70" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
-          <mxGeometry x="-393" y="8316" width="150" height="162" as="geometry" />
+          <mxGeometry x="-393" y="8659" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-72" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="8758" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-73" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="8647" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-74" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-173" y="8659" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-76" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="9186" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-77" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-393" y="8910" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-78" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="8974" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-79" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="8977" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-80" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-173" y="8910" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-81" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-568" y="9009" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-82" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-568" y="8898" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-83" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-395.5" y="9165" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-87" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-570.5" y="9264" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-88" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-570.5" y="9153" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-89" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-178" y="9397" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-90" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-65.5" y="9418" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-92" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="9496" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-93" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="9385" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-94" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-371" y="9228" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-95" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="9231" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-592" y="9377" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-97" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-395.5" y="9407" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-98" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-371" y="9470" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-99" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="9473" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-100" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-180.5" y="9649" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-101" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="9670" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-102" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-575.5" y="9748" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-103" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-575.5" y="9637" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-594.5" y="9629" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-105" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-398" y="9659" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-106" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-373.5" y="9722" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-107" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-313.5" y="9725" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-319" y="9722" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-109" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-183" y="9877" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-110" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-70.5" y="9898" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-111" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-578" y="9976" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-112" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-578" y="9865" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-113" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-597" y="9857" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-114" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-400.5" y="9887" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-115" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-376" y="9950" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-116" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="9953" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-321.5" y="9950" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-118" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#CC0066;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-70.5" y="9953" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-119" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-191" y="10124" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-120" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-78.5" y="10145" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-122" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="10112" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-123" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-605" y="10104" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-124" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-408.5" y="10134" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-125" value="&lt;b&gt;File2&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="-384" y="10197" width="43" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-126" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="10200" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-329.5" y="10197" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-128" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#CC0066;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-78.5" y="10200" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-129" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-196.5" y="10371" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-130" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="10392" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-131" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-591.5" y="10359" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-610.5" y="10351" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-133" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-414" y="10381" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-135" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-329.5" y="10447" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-136" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-335" y="10444" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#CC0066;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="10447" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-138" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-193.5" y="10630" width="166" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-139" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="10651" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-140" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-588.5" y="10618" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-141" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-607.5" y="10610" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-142" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" vertex="1" parent="1">
+          <mxGeometry x="-411" y="10640" width="150" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-143" value="&lt;b&gt;File1&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="-326.5" y="10706" width="46" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-144" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Change_edit_options_pencil_settings_tools_write-128.png" vertex="1" parent="1">
+          <mxGeometry x="-332" y="10703" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-145" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#CC0066;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="10706" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_6VURezrENIk7iArN4Z-146" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#000000;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="10759" width="51" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
